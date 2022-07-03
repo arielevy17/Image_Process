@@ -1,5 +1,5 @@
 
-//  שים לב:להוריד ספריית Jsoup גרסה 1.14.3 (1.5 עושה בעיות..)
+//   Jsoup גרסה 1.14.3
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
@@ -121,8 +121,7 @@ public class HomePanel extends JPanel {
                 String urlName = new String("https://www.facebook.com/" + name); // קישור לתמונה
                 driver.get(urlName);
 
-                // WebElement x = driver.findElement(By.xpath("/html/body/div[1]/div/div[1]/div/div[3]/div/div/div[1]/div[1]/div/div/div[1]/div[2]/div/div/div/div[1]/div/a/div/svg/g/image"));
-                //  String link = x.getAttribute("href");
+
 
                 List<WebElement> allLinks = driver.findElements(By.cssSelector("link"));  //   חשוב:  import java.util.List; ||  מציאת כל האלמנטים עם קישור
                 String[] linksByHref = new String[allLinks.size()]; // מערך שמירת הקישורים הבלבד
@@ -160,7 +159,7 @@ public class HomePanel extends JPanel {
                 mainPanel.setPictureToProcessedLabel();
 
 
-// arielevy17@gmail.com       317706463P95
+
             } catch (Exception e) { //  הודעה על אי מציאת תמונת האיש שהוזן
                 JFrame wrongMessageFrame = new JFrame();
                 wrongMessageFrame.setSize(WIDTH_HEIGHT / 3, WIDTH_HEIGHT / 4);

@@ -12,7 +12,7 @@ public class MainPanel extends  JFrame {
         final int BUTTON_FIELD_HEIGHT=50;
         final int Y_START_FILTERS=100;
         final int X_START_FILTERS =LABEL_WIDTH_HEIGHT+DISTANCE*2;
-        final int Y_FACEBOOK_BOXES_ILUSTTRATE=300;
+
 
         private Font font = new Font("", Font.BOLD, 17);
         private JLabel source;

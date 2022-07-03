@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c296960d-962c-4079-89dd-4ef742d200dd" name="Changes" comment="" />
+    <list default="true" id="c296960d-962c-4079-89dd-4ef742d200dd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HomePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MainPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MainPanel.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -26,6 +33,7 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="2Aq3PppQN2yZB9SSTFX4Mh2E09B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -76,7 +84,7 @@
       <workItem from="1655904836791" duration="35685000" />
       <workItem from="1656604805284" duration="26580000" />
       <workItem from="1656676433217" duration="37045000" />
-      <workItem from="1656874802041" duration="7086000" />
+      <workItem from="1656874802041" duration="7806000" />
     </task>
     <servers />
   </component>
@@ -90,11 +98,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/MainPanel.java</url>
           <line>52</line>
           <option name="timeStamp" value="151" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/MainPanel.java</url>
-          <line>163</line>
-          <option name="timeStamp" value="181" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/MainPanel.java</url>
